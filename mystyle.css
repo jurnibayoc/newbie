@@ -1,0 +1,65 @@
+body {
+  background-color: lightgreen;
+  background-image: linear-gradient(lightgreen,white);
+}
+
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px red, 0 0 5px darkred;
+  text-align: center;
+}
+
+#magic {
+  margin: 15px;
+  padding: 10px;
+  background: ##7FFFD4;
+  width: 200px;
+  color: red;
+ }
+
+ #loser {
+   margin: 15px;
+   padding: 10px;
+   background: ##7FFFD4;
+   width: 200px;
+   color: orange;
+ }
+
+ #holiday {
+   margin: 15px;
+   padding: 10px;
+   background: ##7FFFD4;
+   width: 200px;
+   color: yellow;
+ }
+
+ #kapow {
+   margin: 15px;
+   padding: 10px;
+   background: ##7FFFD4;
+   width: 200px;
+   color: green;
+ }
+
+ #rainbow {
+   margin: 15px;
+   padding: 10px;
+   background: ##7FFFD4;
+   width: 200px;
+   color: darkblue;
+ }
+
+ #faboo {
+   border-radius: 25px;
+   border: 2px solid violet;
+   margin: 15px;
+   padding: 10px;
+   background: ##7FFFD4;
+   width: 200px;
+   color: violet;
+ }
+
+div {
+  font-family: verdana;
+  font-size: 20px;
+}
